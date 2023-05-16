@@ -1,8 +1,11 @@
 # NullishVaulting
 The Nullish Vaulting Method is a technique that allows users to store uninscribed satoshis below ordinals in a novel and secure manner.
 
+[Example 1](https://gamma.io/inscription/34c82078494a7f4f27e8780d75282764a6e84fb52635af756ac19e542325b2bci0) | [Example 2](https://gamma.io/inscription/fc096fefcc8ca64ee1b6a783848b02e65dca2ede5198c0efcf99190425b0ad71i0) 
+
+
 # Templates
-* [Uncommon](uncommon.svg)
+* [Uncommon SVG Template (1.5kb)](uncommon.svg)
 
 # Vaulting Tutorial
 ## Step 1: Wallet Creationg & Importing
